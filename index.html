@@ -22,10 +22,20 @@
                 Paperplane learns every client — brand tone, offers, psychology, and performance — to build smarter campaigns automatically.
             </p>
             
-            <button class="cta-button">
+            <button class="cta-button" onclick="sendEmail()">
                 Join Early Access
             </button>
         </div>
     </main>
+    
+    <script>
+        function sendEmail() {
+            const subject = encodeURIComponent('Join Early Access - Paperplane');
+            const body = encodeURIComponent('Hi,\n\nI would like to join the early access program for Paperplane.\n\nBest regards,');
+            const email = 'join@mypaperplane.io';
+            
+            window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
+        }
+    </script>
 </body>
 </html>

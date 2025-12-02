@@ -46,14 +46,39 @@ This is the **marketing website** for Paperplane, a marketing SaaS platform that
 
 ## 🎯 Early Access
 
-We're currently onboarding **10 agency founders** to test and refine Paperplane's memory engine.
+We're currently onboarding agency founders to test and refine Paperplane's memory engine.
 
 ### Early Access Perks
 - **Exclusive Access**: First to use the platform
 - **Direct Input**: Shape features and development
 - **Founder Pricing**: Locked forever pricing
 
-[Apply for Early Access](mailto:join@mypaperplane.io)\
+### Join the Waitlist
+- **Newsletter**: Weekly updates featuring ads created with Paperplane
+- **Beta Access**: Get early access when MVP is ready (~1 month)
+- **Social Media**: Follow us on [X (Twitter)](https://x.com/paperplane) and [Instagram](https://instagram.com/paperplane)
+
+[Apply for Early Access](mailto:join@mypaperplane.io)
+
+## 📅 Current Status (November 2025)
+
+### Development Progress
+- ✅ **Sentiment Report**: Operational with multi-source data collection
+- ✅ **Advertisement Concepts**: Fully operational with Gemini AI integration
+- ✅ **Image & Video Generation**: Fully operational (Draftless & Scriptroom)
+- ✅ **Client Intelligence**: Multi-source intelligence system operational
+- 🎯 **MVP Timeline**: Core features complete, enhancements ongoing
+
+### Marketing Initiatives
+- 📧 **Newsletter**: Setting up weekly newsletter via Kit
+- 📱 **Social Media**: X (Twitter) and Instagram accounts in progress
+- 🎥 **Sales Video**: Production in progress
+- 🎨 **Landing Page**: Updates with new logo, copy, and video
+
+### Pricing
+- **Free Trial**: 7 days
+- **Standard Plan**: $49/month (ballpark)
+- **Enterprise**: Custom pricing for larger teams\
 
 ## 📄 License
 
